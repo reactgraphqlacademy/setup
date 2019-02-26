@@ -1,4 +1,4 @@
-# Setup instructions
+# Setup instructions for React with Linux
 
 The following instructions will help you to get ready for [ReactJS academy bootcamp](https://reactjs.academy/):
 

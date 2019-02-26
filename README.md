@@ -10,12 +10,12 @@ Setup guides made for [ReactJS academy](https://reactjs.academy/). Please choose
       </a>
     </td>
     <td>
-      <a href="WINDOWS.md">
+      <a href="LINUX.md">
         <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="Windows">
       </a>
     </td>
     <td>
-      <a href="LINUX.md">
+      <a href="WINDOWS.md">
         <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="LINUX" />
       </a>
     </td>

@@ -1,4 +1,4 @@
-# Setup instructions
+# Setup instructions for React with macOS
 
 The following instructions will help you to get ready for [ReactJS academy bootcamp](https://reactjs.academy/):
 
@@ -7,18 +7,20 @@ The following instructions will help you to get ready for [ReactJS academy bootc
 - Pimp your Terminal
 - Install NodeJS and React
 
-## Keyboard first class citizen
+## First class citizen Keyboard
 
 ### Speed
 
-Open __ > _System Preferences_ > _Keyboard_ > Keyboard
-Set `Key Repeat` to fast and `Delay Until Repeat` to short
+__ > _System Preferences_ > _Keyboard_ > **Keyboard**
+
+Set `Key Repeat` to fast and `Delay Until Repeat` to short.
 
 ![](images/macos-keyboard-speed.png)
 
 ### Full control
 
-Open __ > _System Preferences_ > _Keyboard_ > Shortcuts
+__ > _System Preferences_ > _Keyboard_ > **Shortcuts**
+
 Set the radio button to `All controls`.
 
 ![](images/macos-keyboard-control.png)
@@ -30,6 +32,8 @@ When you get a dialog you can:
 - `Tab` to select your option
 
 ## VSCode
+
+...
 
 ## Install a Node Version Manager
 

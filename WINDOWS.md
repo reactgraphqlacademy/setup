@@ -10,3 +10,11 @@ The following instructions will help you to get ready for [ReactJS academy bootc
 ## Microsoft Visual Studio Code
 
 [Download manually on the official website](https://code.visualstudio.com/download)
+
+Inside VSCode, press `Ctrl`+`P`, and enter:
+
+```
+ext install vscode-language-babel
+```
+
+Congratulations! You can install your first extention, it should be the top result.

@@ -20,6 +20,14 @@ Install it with `brew` or [download it manually on the official website](https:/
 $ brew cask install visual-studio-code
 ```
 
+Inside VSCode, press `⌘`+`P`, and enter:
+
+```
+ext install vscode-language-babel
+```
+
+Congratulations! You can install your first extention, it should be the top result.
+
 ## Pimp your terminal
 
 ## Install a Node Version Manager

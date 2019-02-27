@@ -6,22 +6,22 @@ Setup guides made for [ReactJS Academy](https://reactjs.academy/). Please choose
 
 <table>
   <tr>
-    <td>
-      <a href="MACOS.md" style="padding: 20px; text-align: center;">
+    <td center>
+      <a href="MACOS.md">
         <img src="https://cdn.svgporn.com/logos/apple.svg" alt="macOS" />
         <br>
         macOS
       </a>
     </td>
-    <td>
-      <a href="LINUX.md" style="padding: 20px; text-align: center;">
+    <td center>
+      <a href="LINUX.md">
         <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="Linux">
         <br>
         Linux
       </a>
     </td>
-    <td>
-      <a href="WINDOWS.md" style="padding: 20px; text-align: center;">
+    <td center>
+      <a href="WINDOWS.md">
         <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" />
         <br>
         Windows

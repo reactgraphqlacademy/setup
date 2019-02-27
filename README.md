@@ -1,6 +1,8 @@
-# Setup
+# Setup for ReactJS Bootcamp
 
 Setup guides made for [ReactJS Academy](https://reactjs.academy/). Please choose your operating system (OS):
+
+> 🚨 This repo is still a WIP. Issues and PRs are welcome for typos or inaccuracies.
 
 <table>
   <tr>

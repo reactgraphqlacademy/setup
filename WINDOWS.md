@@ -18,3 +18,15 @@ ext install vscode-language-babel
 ```
 
 Congratulations! You can install your first extention, it should be the top result.
+
+## We want to know you!
+
+Would mind please to add a picture to your Slack Profile? Or better create a gravatar profile to sync-up all your picture accross the internet with your best selfie 🤳
+
+https://gravatar.com/
+
+It’ll help the coaches to remember the names. We are a few coaches and we’d love to remember all your names 😉
+
+---
+
+Happy hacking!
